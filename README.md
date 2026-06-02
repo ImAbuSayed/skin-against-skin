@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-against-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Skin Against Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-against-skin/) |
+| **Get License** | [Official Music Licensing for Skin Against Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-against-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> A single whisper lights a fiery spark
+> Pulling you closer where the shadows play
+> Losing our senses as the world fades away
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
