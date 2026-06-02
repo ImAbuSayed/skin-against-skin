@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-against-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Skin Against Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-against-skin/) |
+| **Get License** | [Request Licensing for Skin Against Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-against-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42de4f6c8127408144bf73689f5d27b000737857904493141a46c323a30007c2` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

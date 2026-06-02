@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Skin Against Skin
+
+This log tracks the cryptographic history and versioning for the song **Skin Against Skin** (skin-against-skin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T14:46:59.038440 | `v1` | `42de4f6c8127408144bf73689f5d27b000737857904493141a46c323a30007c2` | `1bbe335eb3e28d01be13dc9089ef72ee0984bd537c834a92929e00686b1ca102` | `2026-06-02_skin-against-skin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
